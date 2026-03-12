@@ -6,6 +6,12 @@ Track and analyze LinkedIn posts mentioning Shayak Mazumder and Adya AI.
 
 This tool scrapes LinkedIn posts, categorizes them by topic segment (Fundraising, Tech/Product, Hiring, Partnerships, Events, Awards, Education), and displays analytics in an interactive Streamlit dashboard.
 
+## 🚀 Live Dashboard
+
+**View the live dashboard:** https://linkedinmonitor.streamlit.app/
+
+The dashboard is deployed on Streamlit Cloud and displays real-time analytics of collected LinkedIn mentions.
+
 ## Prerequisites
 
 - Python 3.9 or higher
